@@ -1,13 +1,13 @@
-# dotfiles
+# ai-skills
 
 Claude Code skills and configuration.
 
 ## 설치
 
 ```bash
-git clone git@github.com:cnbsoft-com/dotfiles.git ~/dotfiles
+git clone git@github.com:cnbsoft-com/ai-skills.git ~/ai-skills
 mkdir -p ~/.claude
-ln -s ~/dotfiles/skills/* ~/.claude/skills/
+ln -s ~/ai-skills/skills/* ~/.claude/skills/
 ```
 
 ## Skills
